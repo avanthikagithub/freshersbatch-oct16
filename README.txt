@@ -1,4 +1,2 @@
-This is Assignment directory of the scetion 2
-The second change of the file.
-The assignment is ready.
+This is Assignment directory of the scetion 3 js.
 
